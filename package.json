@@ -1,0 +1,26 @@
+{
+  "name": "cvnode",
+  "version": "1.0.0",
+  "description": "Aprendendo a criar um CV em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafasuisso/CVNode.git"
+  },
+  "keywords": [
+    "CV",
+    "nodejs"
+  ],
+  "author": "Rafael Tadeu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafasuisso/CVNode/issues"
+  },
+  "homepage": "https://github.com/Rafasuisso/CVNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
