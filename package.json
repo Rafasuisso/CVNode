@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Rafasuisso/CVNode#readme",
   "dependencies": {
     "ejs": "^2.6.2",
-    "express": "^4.17.3",
+    "express": "^4.22.1",
     "http-errors": "^1.7.3"
   },
   "devDependencies": {
